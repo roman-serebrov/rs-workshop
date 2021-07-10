@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 some header
+=======
+cheget to master
+>>>>>>> master
